@@ -6,6 +6,8 @@
 - cntrl-shift-n Режим инкогнито
 - nav
 - a>ссылки либо изображения
+- nav after body
+- .
 -   <a href="#down">
             Вниз
         </a>
